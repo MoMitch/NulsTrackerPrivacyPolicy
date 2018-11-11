@@ -1,6 +1,4 @@
-# NulsTrackerPrivacyPolicy
-Privacy Policy Only
-
+# NulsTracker Privacy Policy
 
 Mitchell Fraser built the NulsTracker app as a Free app. This SERVICE is provided by Mitchell Fraser at no cost and is intended for use as is.
 
